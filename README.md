@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @hibgar
-- 👀 I particularly enjoy working on APIs, Python scripting, ML [NLP], and product management
+- Aspiring Software Engineer / Product Manager 
+- 👀 I have experience working on APIs, NLP, Python scripting, web development, and app development
 - 📫 Connect with me on Linkedin! 
 
 <!---
